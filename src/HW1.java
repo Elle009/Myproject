@@ -8,5 +8,4 @@ public class HW1 {
         int sum = myMethod(3, 4);
         System.out.println(sum);
     }
-
 }
